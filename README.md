@@ -4,21 +4,20 @@ Welcome to the sample GitHub ReadME! Use this template as an outline for your da
 
 
 # Project Background
-Backround about the company, including the industry, active years, business model, and key business metrics. Explain this from the POV of a data analyst who is working at the company.
+Founder in 2008, ITS office is an importer & distributor in all type of office automation & equipment serving customers throughtout Malaysia.
 
-Insights and recommendations are provided on the following key areas:
+The company has a significant amount of sales and demographic data that was previously underutilized due to it doesnt have a data strategy team. This project aims to create a dashboard and analyze the data to undercover insights that can help ITS office improve its business.
 
-- **Category 1:** 
-- **Category 2:** 
-- **Category 3:** 
-- **Category 4:** 
+Insights and recommendations are provided based on the following key areas
+- **Sales Trends:** An evaluation of historical sales patterns.
+- **Product Performance:** An analysis of how different product impact overall sales.
+- **Regional Comparison:** An analysis of regional impact on sales.
 
-The SQL queries used to inspect and clean the data for this analysis can be found here [link].
+The raw data issues log can be downloaded here [link]. 
 
-Targed SQL queries regarding various business questions can be found here [link].
+The SQL queries used to clean, organize and prepare the data for this analysis are available here [link].
 
-An interactive Tableau dashboard used to report and explore sales trends can be found here [link].
-
+An interactive Looker Studio dashboard can be found here [link].
 
 
 # Data Structure & Initial Checks
