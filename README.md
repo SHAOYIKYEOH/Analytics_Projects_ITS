@@ -1,8 +1,3 @@
-Welcome to the sample GitHub ReadME! Use this template as an outline for your data analytics projects. Include one ReadME per repository, with each repository storing one project. Remember, it's better to have quality over quantity - having 2 stellar business-relevant projects stands out much more than 3+ mediocre projects. Feel free to make a copy of this or fork this repository and make it your own. Happy portfolio-ing :) 
-
-
-
-
 # Project Background
 Founder in 2008, ITS office is an importer & distributor in all type of office automation & equipment serving customers throughtout Malaysia.
 
@@ -22,7 +17,12 @@ An interactive Looker Studio dashboard can be found here [link].
 
 # Data Structure & Initial Checks
 
-The companies main database structure as seen below consists of four tables: table1, table2, table3, table4, with a total row count of X records. A description of each table is as follows:
+ITS's database structure seen consists of following attributes: Date, Doc_No, Item_Code, Item_Description, Company_Name, Area, Qty, UOM, Unit_Price, DISC(Discount), Subtotal. 
+
+<img width="216" height="240" alt="image" src="https://github.com/user-attachments/assets/fc70e393-9a08-402b-90e7-098667708493" />
+
+
+
 - **Table 2:**
 - **Table 3:**
 - **Table 4:**
