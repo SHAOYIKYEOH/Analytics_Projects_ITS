@@ -28,15 +28,19 @@ The raw data issues log can be found here.
 # Executive Summary
 
 ### Overview of Findings
-After the peak in late 2022, the company experienced a downward sales trend, including a significant decline in early 2025. The strong performance in 2022 was likely driven by a post-pandemic "return-to-work" procurement surge. Moreover the decline from 2023 to 2025 can be attributed to a natural pullback following the conclusion of corporate purchasing cycles. On the other hand, as of February 13, 2026, our Quarter-to-Date (QTD) revenue has increased by 29.3% compared to the same period last year.
+After the peak in late 2022, the company experienced a downward sales trend, including a significant decline in early 2025. The strong performance in 2022 was likely driven by a post-pandemic "return-to-work" procurement surge. Moreover the decline from 2023 to 2025 can be attributed to a natural pullback following the conclusion of corporate purchasing cycles. 
+
+<img width="1192" height="620" alt="image" src="https://github.com/user-attachments/assets/a66cde49-c3fc-45e4-838d-3e294586a67d" />
+
+- **Trend Reversal:** Despite a consistent downtrend from 2023 to 2025, Quarter-to-Date (QTD) revenue is up 29.3% YoY (as of Feb 13, 2026), successfully breaking the three-year downward trend observed since 2023.
+- **Value over Volume:** While order frequency has slowed, the revenue surge is supported by highe value transactions.
+- **Key Contributors:** The increase in revenue is driven by high-cost units (e.g., SK3100C1 Shredder) and "buy-to-order" transactions.
 
 
 
-[Visualization, including a graph of overall trends or snapshot of a dashboard]
 
 
 
-# Insights Deep Dive
 ### Category 1:
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
