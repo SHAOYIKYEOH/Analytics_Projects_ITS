@@ -10,11 +10,11 @@ Insights and recommendations are provided based on the following key areas
 - **Product Performance:** An analysis of how different product impact overall sales.
 - **Regional Comparison:** An analysis of regional impact on sales.
 
-The raw data and issues log can be downloaded here [link](data/raw_data.csv). 
+The raw data and issues log can be downloaded [here](data/raw_data.csv). 
 
-The SQL queries used to clean, organize and prepare the data for this analysis are available here [link].
+The SQL queries used to clean, organize and prepare the data for this analysis are available [here](data_cleaning.sql).
 
-An interactive Looker Studio dashboard can be found here [link].
+An interactive Looker Studio dashboard can be found [here](https://lookerstudio.google.com/reporting/8e081995-4482-49a1-93a2-7612b4cff876).
 
 
 # Data Structure & Initial Checks
@@ -44,7 +44,7 @@ After the peak in late 2022, the company experienced a downward sales trend, inc
 
 ### Recommendations (Human + AI Analysis):
 
--- **Recurring Revenue Model:** Office equipment — led by paper shredders at 60% of the category — currently relies on a one-and-done sales model. This leaves the company vulnerable to corporate procurement cycles and pullback periods. Offering subscription services for heavy-duty products could stabilize cash flow by converting one-off hardware sales into long-term service relationships.
+- **Recurring Revenue Model:** Office equipment — led by paper shredders at 60% of the category — currently relies on a one-and-done sales model. This leaves the company vulnerable to corporate procurement cycles and pullback periods. Offering subscription services for heavy-duty products could stabilize cash flow by converting one-off hardware sales into long-term service relationships.
 
--- **"BTO" as a Premium Consultancy Service:** A significant portion of revenue relies heavily on buy-to-order (BTO) transactions. BTO transactions are not just "sales" — they are specialized solutions that competitors aren't stocking. Rebranding the BTO process as consulting service, differentiated offering rather than a routine order.
+- **"BTO" as a Premium Consultancy Service:** A significant portion of revenue relies heavily on buy-to-order (BTO) transactions. BTO transactions are not just "sales" — they are specialized solutions that competitors aren't stocking. Rebranding the BTO process as consulting service, differentiated offering rather than a routine order.
 
