@@ -38,4 +38,13 @@ After the peak in late 2022, the company experienced a downward sales trend, inc
 - **Trend Reversal:** Despite a consistent downtrend from 2023 to 2025, Quarter-to-Date (QTD) revenue is up 29.3% YoY (as of Feb 13, 2026), successfully breaking the three-year downward trend observed since 2023.
 - **Value over Volume:** While order frequency has slowed, the revenue surge is supported by highe value transactions.
 - **Key Contributors:** The increase in revenue is driven by high-cost units (e.g., SK3100C1 Shredder) and "buy-to-order" transactions.
+- **Revenue Porfolio:** About 70% of revenue comes from the security & access control and office equipment categories. Within office equipment, paper shredders make up over 60% of the segment every year. Similarly, in the security & access control category, time recorders and fingerprint systems are the main products, contributing around 45% to 50% of total revenue.
+
+<img width="1018" height="573" alt="image" src="https://github.com/user-attachments/assets/c3f02d53-0a46-4e2e-b3b4-e4a629bb9fc6" />
+
+### Recommendations (Human + AI Analysis):
+
+-- **Recurring Revenue Model:** Office equipment — led by paper shredders at 60% of the category — currently relies on a one-and-done sales model. This leaves the company vulnerable to corporate procurement cycles and pullback periods. Offering subscription services for heavy-duty products could stabilize cash flow by converting one-off hardware sales into long-term service relationships.
+
+-- **"BTO" as a Premium Consultancy Service:** A significant portion of revenue relies heavily on buy-to-order (BTO) transactions. BTO transactions are not just "sales" — they are specialized solutions that competitors aren't stocking. Rebranding the BTO process as consulting service, differentiated offering rather than a routine order.
 
